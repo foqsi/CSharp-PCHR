@@ -13,4 +13,4 @@ The program is incomplete. Nevertheless, I got a 94% on the assignment. Unfortun
 ![Medical Details](https://github.com/foqsi/CSharp-PCHR/assets/81455653/2f62a833-88ca-4a4a-bd8d-580933beedda)
 #
 Note:
-Not all of the files were uploaded, and I didn't include the DB to help prevent other students from using my code.
+Not all of the files were uploaded, and I didn't include the DB to help prevent other students from copying my work.
