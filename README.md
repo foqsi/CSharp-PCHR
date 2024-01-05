@@ -2,7 +2,7 @@
 This was my final project for a C# course at OCCC.
 A database was provided for the project. 
 I used migration builder to add columns to tables, and also to create a one-to-many relationship. I've included some images of the UI.
-The program is incomplete. Nevertheless, I got a 94% on the assignment. Unfortunately, no grading sheet was attached.
+The program functioned properly to modify the database when changing values in the text boxes. I got a 94% on the assignment. Unfortunately, no grading sheet was attached.
 # Registration Form
 ![Registration Form](https://github.com/foqsi/CSharp-PCHR/assets/81455653/bae4a533-ce2a-4662-815a-c3736e47cdfd)
 #
